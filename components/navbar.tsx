@@ -54,6 +54,7 @@ export default function Navbar() {
         <div className="hidden md:flex items-center gap-4">
           <a 
             href="/resume.pdf" 
+            download="Goodluck_Okolo_Resume.pdf"
             target="_blank" 
             rel="noopener noreferrer"
             className="px-4 py-2 rounded-xl text-xs font-semibold bg-amber-500 hover:bg-amber-400 text-zinc-950 transition-all shadow-sm shadow-amber-500/10"
@@ -87,6 +88,7 @@ export default function Navbar() {
           ))}
           <a 
             href="/resume.pdf" 
+            download="Goodluck_Okolo_Resume.pdf"
             target="_blank" 
             rel="noopener noreferrer"
             className="w-full text-center py-2.5 rounded-xl text-xs font-semibold bg-amber-500 text-zinc-950 mt-2"

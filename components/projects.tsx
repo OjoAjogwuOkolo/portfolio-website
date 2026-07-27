@@ -40,6 +40,7 @@ export default function Projects() {
       title: 'Portfolio Website',
       description: 'A modern portfolio website built with Next.js and TypeScript, showcasing my projects and skills.',
       tags: ['Next.js', 'TypeScript', 'Tailwind CSS'],
+      liveUrl: 'https://portfolio-website-hywuqjliq-mafia14.vercel.app',
       githubUrl: 'https://github.com/OjoAjogwuOkolo/portfolio',
       featured: false,
     },

@@ -58,6 +58,7 @@ export default function Hero() {
           </a>
           <a 
             href="/resume.pdf"
+            download="Goodluck_Okolo_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-6 py-3.5 rounded-xl font-semibold text-sm bg-[#111111] hover:bg-[#1a1a1a] text-white border border-[#27272A] transition-all flex items-center justify-center gap-2"
